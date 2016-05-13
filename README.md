@@ -7,5 +7,5 @@ Before reading this guide, you may need the basic knowledge about how to use Ker
 We will start from a basic [MNIST](http://yann.lecun.com/exdb/mnist/) (a handwritten digits dataset) example in Keras, and then make it faster and use less memory.
 
 Note that we won't talk about how to design the architecture of the Neural Network here.
-You can refer to the [ResNet](http://arxiv.org/abs/1512.03385) architeture if you want to do some image recognition.
+You can refer to the [ResNet](http://arxiv.org/abs/1512.03385) and its [improved architeture](https://arxiv.org/abs/1603.05027) if you want to do some image recognition.
 ResNet is currently the state-of-the-art image classification model, and it's very elegant comparing with many previous work.
