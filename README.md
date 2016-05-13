@@ -12,7 +12,7 @@ ResNet is currently the state-of-the-art image classification model, and it's ve
 
 ## Save model every epoch
 ## Not validate every epoch
-## Read data from disk at training time
+## Read data from disk at training/predicting time
 ## Data augmentation
 ## Parallelize the data augmentation
 ## Parallelize CPU and GPU
