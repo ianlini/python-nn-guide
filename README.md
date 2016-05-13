@@ -1,5 +1,5 @@
 # Programming Guide for Neural Network in Python
-For people new to programming or Neural Network, it's always hard to tune the network and do everything efficiently.
+For people new to programming or Neural Network, it's always hard to tune the network and do everything efficiently, especially when you don't have enough computational resource.
 This guide aims to help people learn some "little" techniques to make the whole process more efficient and convenient.
 
 This is a programming guide based on [Keras](http://keras.io/) (a Python package for Neural Network), while the knowledge can also be applied to other packages, i.e., [Theano](http://deeplearning.net/software/theano/), or even other languages.
