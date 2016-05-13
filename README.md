@@ -8,4 +8,4 @@ We will start from a basic [MNIST](http://yann.lecun.com/exdb/mnist/) (a handwri
 
 Note that we won't talk about how to design the architecture of the Neural Network here.
 You can refer to the [ResNet](http://arxiv.org/abs/1512.03385) architeture if you want to do some image recognition.
-ResNet is currently the state-of-the-art image classification model, and it's more elegant to many previous work.
+ResNet is currently the state-of-the-art image classification model, and it's very elegant comparing with many previous work.
